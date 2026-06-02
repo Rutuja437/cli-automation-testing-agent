@@ -1,0 +1,10 @@
+{
+  "name": "cli-agent-poc",
+  "version": "1.0.0",
+  "scripts": {
+    "lint": "echo Running lint",
+    "test": "echo Running tests",
+    "build": "echo Building application",
+    "dev": "echo Starting application"
+  }
+}
