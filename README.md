@@ -24,10 +24,3 @@ docker compose ps
 git status
 git branch
 git fetch
-
-## Hotfix Workflow
-
-git checkout main
-git pull origin main
-git checkout -b hotfix/login-fix
-pytest
